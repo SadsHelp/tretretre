@@ -40,15 +40,15 @@ NEW_MEMBER = """
 
 ✦✧✦✧✦✧
 """
-api_id = 11965422
-api_hash = "93e6c27cbb4c4a3dbb29181a3f5e5c76"
-token = "5667723834:AAGBBRrKEaPIVSxS8C4SQlSHs5XeVWpbubI"
+api_id = 28293790
+api_hash = "9bc15ceaed13bf8ffcf4e0e3ff8ee858"
+token = "6174395124:AAG7jbmpdVb2bhhv8oto_KVhiqwGaC9mx-oI"
 OWNER_NAME = "𓆩᪵✘𝕯𓆪™ 𓆩𝘽𝙊𝘿𝙔𓆪 |🇪🇬| 𓆩𔘓𓆪"
 
 app = Client("yt", bot_token=token, api_id = api_id, api_hash = api_hash)
 BOT_TOKEN = token
 CHANNEL = "pyth_on3"
-OWNER = 5701042002
+OWNER = 5978910885
 con3 = +201019715490
 
 @app.on_message(ay.command("start"))
